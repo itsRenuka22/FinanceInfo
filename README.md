@@ -18,5 +18,5 @@ Enter a stock symbol (e.g. `AAPL`) when prompted. Press Enter with no input to q
 
 ## Notes
 
-- Data is sourced from Stooq (end-of-day prices, not live)
+- Data is sourced from Stooq
 - Price change is calculated relative to the previous trading day's close
